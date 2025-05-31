@@ -1,16 +1,24 @@
 <h1 align="center">Hi 👋, I'm Prince Subedi</h1>
-<h3 align="center">A dedicated Computer Engineering student from Nepal</h3>
+
+<h2 align="center">A dedicated Computer Engineering student from Nepal</h2>
+<h3 align="center">Will become great someday </h3>
 
 <img align="right" alt="coding" width="400" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesubedicode&label=Profile%20views&color=0e75b6&style=flat" alt="princesubedicode" /> </p>
 
 - 🌱 I’m currently learning **Web development**
-
+- 🔥 Gonna be a **Django Devloper**
+- Topper at Pec.
+- Fully Pasionate, Motivated Programmer ( Still can't hack her :) )
 - 📫 How to reach me **subediprince01@gmail.com**
-
+- Fb handle - Prince Subedi
+- Insta handle - Subediprince45
+- Contact Details -9746438398
+  
 - ⚡ Fun fact **My favorite language? Tea! 🍵**
-
+- And My Girlfriend hehe
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prince subedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince subedi" height="30" width="40" /></a>
